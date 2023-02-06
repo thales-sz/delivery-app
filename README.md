@@ -117,11 +117,11 @@ A ideia da sua equipe já pressupõe alguma escalabilidade, dado que foram estab
 
 Desenvolvido em grupo por:
 
-`T`hales Chagas <br/>
-`L`uiz Gabriel <br/>
-`A`iezer Santos <br/>
-`F`ernanda Grein <br/>
-`T`iago Eberhardt <br/>
+Thales Chagas <br/>
+Luiz Gabriel <br/>
+Aiezer Santos <br/>
+Fernanda Grein <br/>
+Tiago Eberhardt <br/>
 
 
 <br/>
